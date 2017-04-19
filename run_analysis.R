@@ -84,3 +84,7 @@ library(dplyr)
 new_data <- final_data %>%
   group_by(Volunteer_Num, Activity) %>%
   summarise_all( funs(mean))
+ 
+ View(new_data)
+ 
+ ## ====== END ================
