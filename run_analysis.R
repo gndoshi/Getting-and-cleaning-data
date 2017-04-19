@@ -87,4 +87,6 @@ new_data <- final_data %>%
  
  View(new_data)
  
+ # Creating a txt file with tab separated data. 
+ write.table(new_data, "gacdata.txt", row.names = FALSE, sep = "\t") 
  ## ====== END ================
