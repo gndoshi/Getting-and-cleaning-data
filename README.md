@@ -1,6 +1,6 @@
 # Getting-and-cleaning-data
 Course Project for the Coursera class - Getting and Cleaning Data
-=====================4===============================================
+====================================================================
 Gautam Doshi
 ====================================================================
 The purpose of this project is to generate a tidy data set that meets and follows the principles provided on Coursera. 
